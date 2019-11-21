@@ -1,0 +1,1 @@
+npm install node-fetch --save & npm install canvas --save & mkdir img
