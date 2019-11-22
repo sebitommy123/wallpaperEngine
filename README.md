@@ -1,6 +1,6 @@
 # wallpaperEngine
 
-Required nodejs.
+Requires Nodejs. Copy all the files inside the repository into your own computer.
 
 Do npm init in whatever folder you choose to store the files in. Then Run Setup.bat.
 
@@ -8,4 +8,4 @@ Right click on your desktop background, click presonalize, click task bar, and t
 
 Then, put the indexShortcut in your %AppData%\Microsoft\Windows\Start Menu\Programs\Startup\ folder. Then, run the indexShortcut. You can now close it and forget about it forever.
 
-By default, it will put french words as your screensaver. You can change the code in index.js as you please. It works by generating an image.
+By default, it will put french words as your screensaver. You can change the code in index.js as you please. It works by generating an images.
